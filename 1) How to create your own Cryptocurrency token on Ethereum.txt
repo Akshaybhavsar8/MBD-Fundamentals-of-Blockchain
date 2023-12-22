@@ -1,0 +1,15 @@
+1) How to create your own Cryptocurrency token on Ethereum
+Blockchain?
+Steps to create your on cryptocurrancy token on Etherium Blockchain 
+1>Login to your metamask wallet 
+2>Select the Account after that select Etherium test network 
+3>Then get test etherium faucate to your account 
+4>FOr getting test ether go to the website 
+https://www.geeksforgeeks.org/ethereum-blockchain-getting-free-test-ethers-for-rinkeby-test-network/
+after that you will get test ether in your goerliETH test account 
+5> go to the website https://test-mint.trustswap.org/create-coin
+6> select in metamask test network goerliETH then select to creaate new token 
+after that filll the information 
+Token name, Token Symbol, add image Select how much supply do you need for your then click to next
+after that select options such as If you want token buring option and also charge fees to transfer the token then finally click to next 
+and your token is ready to use.
